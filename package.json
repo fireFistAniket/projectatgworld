@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage":"https://firefistaniket.github.io/projectatgworld",
+  "homepage":"https://firefistaniket.github.io/projectatgworld/",
   "scripts": {
     "dev": "vite --host",
     "build": "vite build",
